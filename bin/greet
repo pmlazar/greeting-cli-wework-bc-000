@@ -2,11 +2,11 @@
 require_relative "../lib/greeting"
 
 puts "Hi! I'm HAL, what's your name?"
-puts "
+puts greeting 
 
  user_name = gets.strip
  greeting(user_name) 
 
-user_name = do 
+
 
 
