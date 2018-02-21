@@ -4,4 +4,4 @@ def greeting(user_name)
  puts "Hello, #{user_name}.Its nice to meet you."
 end
 
-puts greeting 
+puts name 
